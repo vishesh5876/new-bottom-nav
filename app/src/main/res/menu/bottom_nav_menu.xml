@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/home"
+        android:id="@+id/main_home" />
+
+    <item android:title="Invite"
+        android:icon="@drawable/refer"
+        android:id="@+id/invite"/>
+
+    <item android:title="Wallet"
+        android:icon="@drawable/wallet"
+        android:id="@+id/wallet"/>
+
+    <item android:title="Profile"
+        android:icon="@drawable/profile"
+        android:id="@+id/profile"/>
+</menu>

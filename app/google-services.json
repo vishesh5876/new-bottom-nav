@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "443476190542",
+    "project_id": "reward-it-8a2fa",
+    "storage_bucket": "reward-it-8a2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443476190542:android:6961f67ed386e31f01aa1f",
+        "android_client_info": {
+          "package_name": "com.techopus.rewardit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443476190542-620sq7atnm7s95prtpeiejv50i8s8kqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techopus.rewardit",
+            "certificate_hash": "dedbd44f68a66e41913d0891bc0cb161582fbd22"
+          }
+        },
+        {
+          "client_id": "443476190542-2t4u9npqe2m7k9jj2g8t5t10d3f3l969.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxVUbDDOs6iW42YD73LHycKEdYEHRIYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443476190542-2t4u9npqe2m7k9jj2g8t5t10d3f3l969.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
